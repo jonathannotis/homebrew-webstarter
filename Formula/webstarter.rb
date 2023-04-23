@@ -3,8 +3,8 @@
 class Webstarter < Formula
   desc "Create a full stack project all in a single command"
   homepage "https://github.com/jonathannotis/web-starterkit-cli"
-  url "https://github.com/jonathannotis/web-starterkit-cli/releases/download/v1.0.1/webstarter.tar.gz"
-  sha256 "bf80e41d5ea0088563dae7fe932c1ed73b3f4307a186a3dc9b550dbc87aa23e2"
+  url "https://github.com/jonathannotis/web-starterkit-cli/releases/download/v1.0.1/webstarter.tgz"
+  sha256 "686af2ae71ee4419d9bbeb1362d2c83972c8cbae3dae66ebcbadd41f0768fb13"
   license "MIT"
   version "1.0.1"
 
