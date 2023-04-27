@@ -9,8 +9,6 @@ class Webstarter < Formula
   version "1.0.1"
 
   def install
-    prefix.install "assets"
-
-    bin.install "webstarter.dll"
+    prefix.install Dir["*"]
   end
 end
