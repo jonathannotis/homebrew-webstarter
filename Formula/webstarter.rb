@@ -11,6 +11,6 @@ class Webstarter < Formula
   def install
     prefix.install "assets"
 
-    bin.install "webstarter"
+    bin.install "webstarter.dll"
   end
 end
